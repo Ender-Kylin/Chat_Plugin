@@ -13,21 +13,12 @@
 ```bash
 git clone https://github.com/your-repo-url/chat_plugin.git
 ```
-2. 进入项目目录:
-```bash
-cd chat_plugin
-```
-
 
 ### 通过 Gitee 下载
 如果你想从 Gitee 下载本插件,可以按照以下步骤操作:
 1. 克隆仓库到本地:
 ```bash
-git clone https://gitee.com/your-repo-url/chat_plugin.git
-```
-2. 进入项目目录:
-```bash
-cd chat_plugin
+git clone https://gitee.com/enderkylin/chat_-plugin.git
 ```
 
 
