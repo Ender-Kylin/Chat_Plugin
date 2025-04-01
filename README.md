@@ -11,7 +11,7 @@
 你可以通过以下步骤从 GitHub 下载本插件:
 1. 克隆仓库到本地:
 ```bash
-git clone https://github.com/your-repo-url/chat_plugin.git
+git clone https://github.com/Ender-Kylin/Chat_Plugin.git
 ```
 
 ### 通过 Gitee 下载
