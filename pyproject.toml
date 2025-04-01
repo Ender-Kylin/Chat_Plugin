@@ -1,0 +1,20 @@
+[project]
+name = "chat_plugin"
+version = "0.1.0"
+description = "A NoneBot plugin for chatting with Ollama"
+authors = [
+    { name = "Your Name", email = "your_email@example.com" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+dependencies = [
+    "nonebot2",
+    "nonebot-adapter-onebot",
+    "pydantic",
+    "ollama"  # 根据实际使用的库添加
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
